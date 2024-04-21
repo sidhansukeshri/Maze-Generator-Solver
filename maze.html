@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Maze Generator & Solver</title>
+  <link href="styles.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <h1>Maze Generator & Solver</h1>
+  <div id="maze-container"></div>
+  <div id="buttons">
+    <button class="button" onclick="generateMaze()">Generate Maze</button>
+    <button class="button" onclick="solveMaze()">Solve Maze</button>
+  </div>
+  <div id="explanation">
+    <h2>Current Move:</h2>
+    <p id="move-explanation"></p>
+    <h2>Binary Tree:</h2>
+    <div id="binary-tree"></div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.21.0/vis.min.js"></script>
+  <script src="scripts.js"></script>
+</body>
+</html>
