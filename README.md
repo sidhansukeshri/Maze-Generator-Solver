@@ -4,7 +4,7 @@
 Welcome to MazeCraft! MazeCraft is a maze generator and solver application that helps you explore and conquer complex mazes with ease. It provides a user-friendly interface to generate mazes, solve them, and visualize the solution process step by step.
 
 ## Getting Started
-To view website, simply visit https://sidhansukeshri.github.io/Maze-Generator-Solver/]
+To view website, simply visit https://sidhansukeshri.github.io/Maze-Generator-Solver/
 
 ## Features
 - Generate mazes of various sizes using recursive backtracking algorithm.
