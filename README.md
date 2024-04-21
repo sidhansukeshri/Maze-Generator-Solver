@@ -1,4 +1,4 @@
-# MazeCraft
+![image](https://github.com/sidhansukeshri/Maze-Generator-Solver/assets/112798263/8513a6a6-5171-4efc-b553-ddd60178bc22)# MazeCraft
 
 ## Introduction
 Welcome to MazeCraft! MazeCraft is a maze generator and solver application that helps you explore and conquer complex mazes with ease. It provides a user-friendly interface to generate mazes, solve them, and visualize the solution process step by step.
@@ -29,4 +29,7 @@ To get started with MazeCraft, simply follow these steps:
 ## Credits
 This project was created by Sidhansu Keshri. Feel free to contribute to this project by submitting bug reports, feature requests, or pull requests.
 
+## Screenshorts
+![image](https://github.com/sidhansukeshri/Maze-Generator-Solver/assets/112798263/54b6ee78-1558-4b06-885f-29425615c541)
 
+![image](https://github.com/sidhansukeshri/Maze-Generator-Solver/assets/112798263/541ad406-f643-41ee-a382-ca5fc2b01eac)
