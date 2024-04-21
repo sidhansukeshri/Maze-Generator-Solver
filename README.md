@@ -12,7 +12,7 @@ Welcome to MazeCraft! MazeCraft is a maze generator and solver application that 
 ## Getting Started
 To get started with MazeCraft, simply follow these steps:
 1. Clone this repository to your local machine.
-2. Open the `maze.html` file in your web browser.
+2. Open the `index.html` file in your web browser.
 3. Click on the "Generate Maze" button to create a new maze.
 4. Click on the "Solve Maze" button to solve the generated maze.
 5. Explore the maze solution step by step.
